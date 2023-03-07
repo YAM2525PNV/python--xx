@@ -1,0 +1,2 @@
+test= 'am'
+print (test)
